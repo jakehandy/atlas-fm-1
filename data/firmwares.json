@@ -1418,7 +1418,7 @@
   "why": "Custom firmware by Jake Handy: fourteen instruments with dynamic visuals. Eight algorithms and four live knobs, plus a loop recorder, a step sequencer, an arpeggiator and a metronome. Works on both the original flash chip and the newer UC25HQ80. Uses fm1-base.",
   "features": "Fourteen instruments, eight algorithms each (112 sounds), four live knobs, loop recorder, step sequencer, arpeggiator and metronome. Guide at https://jakehandy.com/h1. Browser simulator at https://jakehandy.com/public/h1/simulator.html.",
   "repo": "https://github.com/jakehandy/h1",
-  "install": "https://github.com/jakehandy/h1/releases/tag/v0.2.0",
+  "install": "https://thefirmwarehub.com/firmware/h1/",
   "rank": 4,
   "purpose": "Classic synth",
   "emulates": "Fourteen animated instruments for the FM-1",
